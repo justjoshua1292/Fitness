@@ -8,10 +8,16 @@ const PORT = process.env.port || 3001;
 const app = express();
 
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/joshfitnesstracker", {
-  useNewUrlParser: true,
-  useFindAndModify: false
-});
+mongoose.connect(
+  process.env.MONGODB_URI || 'mongodb://localhost/joshfitnesstracker',
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false
+  }
+);
+
 
 
 app.use(express.urlencoded({ extended: true }));
