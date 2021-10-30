@@ -41,6 +41,4 @@ https://joshfitnesstracker-1.herokuapp.com/?id=617d77e7d0c37b0016336ed3!
 
 
 
-[Screenshot (363)](https://user-images.githubusercontent.com/83887301/139554995-6c549e6a-a9c2-470d-b004-a0d4fa8036d4.png)
-![Screenshot (364)](https://user-images.githubusercontent.com/83887301/139554996-14a60ec2-c7b4-441b-8c6f-b8e288e3c9d1.png)
-![Screenshot (368)](https://user-images.githubusercontent.com/83887301/139554997-f44a21ff-23b9-4859-9288-a2fb5e596314.png)
+
