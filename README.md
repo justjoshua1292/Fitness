@@ -37,8 +37,21 @@ View the total duration of each workout from the past seven workouts on the stat
 
 
 
-https://joshfitnesstracker-1.herokuapp.com/?id=617d77e7d0c37b0016336ed3!
+https://finalfitnesstracker0.herokuapp.com/?id=617d9e82bb88fd0016490fbe
 
 
 
 
+
+
+
+
+
+
+![Screenshot (363)](https://user-images.githubusercontent.com/83887301/139556396-ec891d6d-72ce-468b-af11-c3016dfcedf7.png)
+
+![Screenshot (364)](https://user-images.githubusercontent.com/83887301/139556397-8dddea03-5f29-49eb-8018-0b50f82b9861.png)
+
+![Screenshot (368)](https://user-images.githubusercontent.com/83887301/139556398-12d827d6-1d9f-4798-9734-a375a092e49f.png)
+
+![Screenshot (369)](https://user-images.githubusercontent.com/83887301/139556400-dd042dff-516d-4f03-9cfa-27ea174f5712.png)
